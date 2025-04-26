@@ -45,3 +45,10 @@ Visual Computing
 API Integration
 
 References - Will Provide as Required
+
+
+### Relevant Projects
+-----------------------------------------------------------------------------------------
+![Page 1](https://github.com/Elun4705/Resume-Project/blob/main/Projects-%20Emmanuel%20Luna_page-0001.jpg)
+![Page 2](https://github.com/Elun4705/Resume-Project/blob/main/Projects-%20Emmanuel%20Luna_page-0002.jpg)
+![Page 2](https://github.com/Elun4705/Resume-Project/blob/main/Projects-%20Emmanuel%20Luna_page-0003.jpg)
